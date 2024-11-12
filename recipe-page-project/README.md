@@ -23,7 +23,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://priscillia-omelette-recipe-page.vercel.app/)
+- Live Site URL: (https://priscillia-omelette-recipe-page.vercel.app/)
 
 ## My process
 First, I included semantic HTML tags in the html page (headers, sections, divs, etc.). Then I created the CSS page (recipe.css), linked it to the html page and began applying styles. 
